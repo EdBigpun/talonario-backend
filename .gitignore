@@ -1,4 +1,4 @@
-# Ignorar dependencias
+# Ignorar dependencias y archivos de entornogit
 node_modules/
 package-lock.json
 
