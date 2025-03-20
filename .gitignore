@@ -1,9 +1,7 @@
-# Ignorar dependencias y archivos de entornogit
+# Ignorar dependencias
 node_modules/
 package-lock.json
 
-# Ignorar variables de entorno
+# Ignorar variables de entorno y credenciales
 .env
-
-# Ignorar credenciales privadas
 src/config/firebaseKey.json
