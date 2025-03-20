@@ -5,3 +5,4 @@ package-lock.json
 # Ignorar variables de entorno y credenciales
 .env
 src/config/firebaseKey.json
+
